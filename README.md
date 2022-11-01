@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Ming.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minngc)](https://github.com/anuraghazra/github-readme-stats)
+[![Minngc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minngc)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Minnc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minngc)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Minngc/Minngc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
